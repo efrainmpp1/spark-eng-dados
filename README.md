@@ -2,7 +2,7 @@
 
 ## Spark and Hadoop Configuration and Release Information ##
 
-Spark Version `2.4.5`, Hadoop version is `2.7`, Python version `3.7.3`.
+Spark Version `3.4.0`, Hadoop version is `3.0.0`, Python version `3.7.3`.
 
 Apache Spark is running in *Standalone Mode* and controls its own master and worker nodes instead of Yarn managing them.     
 
